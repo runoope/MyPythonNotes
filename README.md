@@ -1,4 +1,4 @@
 # MyPythonNotes
 My first word.
-My sencond word!
-
+My second word!
+My third word!
