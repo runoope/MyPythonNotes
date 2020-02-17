@@ -34,5 +34,5 @@ for i in range(0, 500, 50):
     data = {'标题': name_results, '链接': href_results, '内容': text_results}
     df = DataFrame(data)
 
-    df.to_csv('data/data.csv', encoding='utf_8_sig', index=False, mode='a')
+    df.to_csv('text/text.csv', encoding='utf_8_sig', index=False, mode='a')
 print('爬取完成......................................................................................')
