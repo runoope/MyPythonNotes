@@ -29,4 +29,3 @@ for name_list in name_lists:
 item_sets, rules = apriori(name_lists, min_support=0.5, min_confidence=0.8)
 print(item_sets)
 print(rules)
-webdriver.C
